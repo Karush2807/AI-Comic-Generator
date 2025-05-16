@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_groq
+ipykernel
+python-dotenv
+requests
+replicate
+pillow
+rembg
+onnxruntime
